@@ -15,3 +15,4 @@ public class ResultActivity extends AppCompatActivity {
         result.setText(getString(R.string.bmi_extra)+bmi);
     }
 }
+ 
